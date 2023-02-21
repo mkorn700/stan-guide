@@ -1,0 +1,163 @@
+
+
+
+  html{
+    background: url(pictures/2716614.jpg);
+  }
+
+
+   
+  body {
+    background-color: rgba(255, 255, 255, 0.85);
+    width: 600px;
+    padding: 50px 0;
+    margin: 25px auto;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;  
+}
+  
+  h1 {
+    margin-bottom: 50px;
+  }
+  
+  h1,
+  h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  img {
+    margin: 25px 0;
+  }
+  
+  .quote {
+    font-style: italic;
+    font-size: 18px;
+  }
+  
+  input {
+    font-size: 16px;
+    padding: 5px;
+  }
+
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  p:hover {
+  
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  
+hr{
+
+    font-size: larger;
+
+
+    size: 25px;
+
+    padding: 50px, 0px ;
+}
+
+
+    
+.memberpic {
+
+  
+    width: 350px ;
+
+    height: 561px;
+  }
+  
+  *{
+font-weight: bold;
+    position: relative;
+    box-sizing: border-box;
+  }
+
+  button{
+padding: 12px 28px;
+color: white;
+background-color: rgb(0, 0, 0);
+text-decoration: none;
+border: none;
+border-radius: 30px;
+font-size: 14px;
+font-weight: bold;
+
+
+  }
+  button:hover{
+color: black;
+background-color: white;
+transform: scale(1.1);
+
+  }
+
+  h1{
+
+width: 94%;
+margin: 0 auto;
+padding: 13px 0;
+top: auto;
+left:auto;
+ right: auto;
+border-radius: 50px;
+z-index: 2;
+background:rgb(255, 255, 255);
+box-shadow: 0 0 30px rgb(0 0 0 / 8%);
+color: white;
+ background-size: cover;
+font-size: 4em;
+text-align: center  ;
+-webkit-text-stroke: 2px black;
+
+}
+
+
+
+  p{
+    padding-top: 55px;
+  }
+  .yuh{
+text-align: left;
+    padding-right: 5px;
+  }
+
+  .btn{
+
+    padding: 12px 25px;
+  }
+
+  .moreinfo{
+
+    margin: 1em auto 0 ;
+    max-width: 900px;
+    padding: 0 1.5em;
+  }
+  h2{
+
+    text-align: center;
+  }
+
+.supreme{
+    width: 94%;
+margin: 0 auto;
+padding: 13px 0;
+top: auto;
+left:auto;
+ right: auto;
+border-radius: 50px;
+z-index: 2;
+background: url(pictures/wp6110433.jpg) center;
+box-shadow: 0 0 30px rgb(0 0 0 / 8%);
+color: rgb(255, 248, 248);
+ background-size: cover;
+
+text-align: center   ;
+}
+
+
